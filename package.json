@@ -1,0 +1,10 @@
+{
+ "name": "primo-explore-jtc-hide-requests",
+ "version": "0.0.3",
+ "description": "hide requests",
+ "author": "jtc-librarian",
+ "repository": {
+   "type": "git",
+   "url": "https://github.com/JTC-librarian/primo-explore-jtc-hide-requests.git"
+ }
+}
